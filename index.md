@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Web Page
 
-You can use the [editor on GitHub](https://github.com/ambularz/ambularz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my second repository and I feel like I am doing this with flying colors. It's cool though.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I didn't think my second repository would mean creating a web page, but here we are.
 
 ### Markdown
 
